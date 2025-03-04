@@ -1,5 +1,8 @@
 
-# [Django Chat Application (Devnoms)](https://devnoms.onrender.com)
+# Chatify
+=======
+
+# [Django Chat Application](https://devnoms.onrender.com)
 
 <div style="text-align: center;">
   <a href="https://devnoms.onrender.com">
@@ -11,28 +14,9 @@
 
 ---
 
-## 🌐 **Live Preview**
-
-Experience the power of **Devnoms Chat App** right now:
-
-[![Live Preview](https://img.shields.io/badge/Live-Preview-brightgreen?style=for-the-badge&logo=django)](https://devnoms.onrender.com)
-
----
-
 ## 🌟 **About Devnoms Chat App**
 
 **Devnoms Chat App** is a secure and scalable platform that simplifies how you connect with friends and manage your social interactions. Whether you’re sending friend requests, chatting in real-time, or managing your profile, **Devnoms** has everything you need to stay connected.
-
----
-
-## 🎯 **Why Choose Devnoms Chat App?**
-
-✨ **Devnoms Chat App** delivers:
-
-- **Seamless Communication**: Real-time chat functionality to keep you connected.
-- **User-Centric Features**: A clean, intuitive interface for effortless navigation.
-- **Secure Interactions**: Robust authentication and privacy-focused design.
-- **Customization**: Manage your profile, find friends, and control your experience.
 
 ---
 
@@ -87,13 +71,13 @@ Here’s what’s coming next to **Devnoms Chat App**:
 
 ## 🖥️ **Getting Started**
 
-Clone the **Devnoms Chat App** repository and set up locally:
+Clone the repository and set up locally:
 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/devnamdev2003/django-chat-app.git
-   cd django-chat-app
+   git clone https://github.com/laxmanspidey/Chatify.git
+   cd chatify
    ```
 
 2. **Install Dependencies**
@@ -120,21 +104,9 @@ Clone the **Devnoms Chat App** repository and set up locally:
 
 ---
 
-## 💻 **Contributions**
-
-We welcome contributions to **Devnoms Chat App**!
-
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature-name`).
-3. Commit your changes (`git commit -m "Add feature"`).
-4. Push to your branch (`git push origin feature-name`).
-5. Open a pull request.
-
----
-
 ## 📷 **Screenshots**
 
-Here’s a preview of the **Devnoms Chat App**:
+Here’s a preview of the **Chatify Chat App**:
 
 **Login Page**  
 ![Login](https://filesstatic.netlify.app/Chatapp/img/login.png)
@@ -149,15 +121,3 @@ Here’s a preview of the **Devnoms Chat App**:
 ![Edit Profile](https://filesstatic.netlify.app/Chatapp/img/edit.png)
 
 ---
-
-## 📜 **License**
-
-The **Devnoms Chat App** is released under the [MIT License](LICENSE).
-
----
-
-# 💬 **Join Devnoms Today!**
-
-Don’t miss out on seamless communication with **Devnoms Chat App**! Start chatting now and experience a whole new level of connectivity.
-
-🔗 [**Try Devnoms Now**](https://devnoms.onrender.com)
