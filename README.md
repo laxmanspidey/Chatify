@@ -2,21 +2,16 @@
 # Chatify
 =======
 
-# [Django Chat Application](https://devnoms.onrender.com)
+# [Django Chat Application]
 
-<div style="text-align: center;">
-  <a href="https://devnoms.onrender.com">
-    <img src="https://filesstatic.netlify.app/Chatapp/img/logo_750x750.png" alt="Devnoms Logo" style="width: 250px;">
-  </a>
-</div>
 
-🚀 Welcome to **Devnoms Chat App**, a modern, feature-rich real-time chat platform! Designed to empower seamless communication, **Devnoms Chat App** allows users to connect with friends, manage profiles, and engage in real-time conversations with an intuitive interface and cutting-edge features.
+🚀 Welcome to **Chatify Chat App**, a modern, feature-rich real-time chat platform! Designed to empower seamless communication, **Chatify Chat App** allows users to connect with friends, manage profiles, and engage in real-time conversations with an intuitive interface and cutting-edge features.
 
 ---
 
-## 🌟 **About Devnoms Chat App**
+## 🌟 **About Chatify Chat App**
 
-**Devnoms Chat App** is a secure and scalable platform that simplifies how you connect with friends and manage your social interactions. Whether you’re sending friend requests, chatting in real-time, or managing your profile, **Devnoms** has everything you need to stay connected.
+**Chatify Chat App** is a secure and scalable platform that simplifies how you connect with friends and manage your social interactions. Whether you’re sending friend requests, chatting in real-time, or managing your profile, **Chatify** has everything you need to stay connected.
 
 ---
 
@@ -60,7 +55,7 @@
 
 ## 🌍 **Future Enhancements**
 
-Here’s what’s coming next to **Devnoms Chat App**:
+Here’s what’s coming next to **Chatify Chat App**:
 
 1. **Real-Time Notifications**: Alerts for new messages and friend requests.
 2. **Multimedia Sharing**: Send images, videos, and documents in chats.
@@ -97,7 +92,7 @@ Clone the repository and set up locally:
 4. **Run the Server**
 
    ```bash
-   daphne devnoms.asgi:application
+   daphne Chatify.asgi:application
    ```
 
 5. Open your browser and navigate to: `http://localhost:8000/`.
